@@ -1,5 +1,6 @@
 # capstone-data-analytics
 Final Capstone Project for Data Analytics Course
+
 This analysis goes over Salt River Project's customer Electricity Demand (MWh) from a decade ago up to October 31st 2025.
 I perform EDA on the dataset and utilize ML and predictive models to predict future electricity Demand.
 This is a time series dataset with high granuality down to the hour. 
